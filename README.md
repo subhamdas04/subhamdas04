@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, Bootstrap, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/subhamdas04](https://github.com/subhamdas04)
+- 👨‍💻 All of my projects are available at [https://github.com/subhamdas04](https://github.com/subhamdas04?tab=repositories)
 
 - 💬 Ask me about **react, vue**
 
